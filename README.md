@@ -1,4 +1,4 @@
-## Rendimiento – Análisis de Performance en Programación Java
+# Rendimiento – Análisis de Performance en Programación Java
 
 Este repositorio contiene una serie de programas enfocados en comprender y medir el rendimiento computacional, aplicando conceptos como:
 
@@ -14,7 +14,7 @@ Métodos de duplicación y validación experimental
 
 Incluye implementaciones en Java, ejercicios de medición de tiempos, y archivos de estudio que explican los fundamentos teóricos del rendimiento.
 
-Contenido del repositorio
+## Contenido del repositorio
 
 Implementaciones en Java
 
@@ -30,7 +30,7 @@ Ramanujan.java
 
 Implementación para encontrar números de Ramanujan dentro de un límite dado. Sirve para analizar rendimiento con dobles bucles y optimizaciones basadas en almacenamiento previo.
 
-Objetivo del repositorio
+## Objetivo del repositorio
 
 Este repositorio te permite:
 
@@ -44,7 +44,7 @@ Ver ejemplos concretos de algoritmos cúbicos, cuadráticos y lineales.
 
 Prepararte para cursos avanzados de estructuras de datos y algoritmos.
 
-Requisitos
+## Requisitos
 
 Java 17
 
@@ -54,7 +54,7 @@ Consola o terminal para ejecutar mediciones
 
 (Opcional) Herramientas como Excel o Google Sheets para graficar resultados experimentales
 
-Ejecución
+## Ejecución
 
 Clonar el repositorio:
 
@@ -70,6 +70,6 @@ java Archivo
 
 Muchos de los programas requieren ingresar valores por consola.
 
-## Autor
+# Autor
 
 Jonnathan Rosero Segura
